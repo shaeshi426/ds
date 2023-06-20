@@ -1,0 +1,23 @@
+.giyu{
+    background: #96ceb4;
+}
+.giyupic{
+    height: 200px;
+    width: auto;
+    padding: 0px;
+    border: 2px solid;
+}
+@media (max-width:320px){
+    .giyupic{
+        height: 140px;
+    }
+}
+.why{
+    background: #ffeead;
+}
+.feats{
+    background: #ffcc5c;
+}
+body{
+    background: #e7d2d0;
+}
